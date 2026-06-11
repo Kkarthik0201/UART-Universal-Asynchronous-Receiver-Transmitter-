@@ -317,8 +317,3 @@ Rx Done Flag  = 1
 
 ---
 
-## Author
-
-**Karthik Kuntla**
-
-Verilog HDL implementation of UART Transmitter and Receiver for reliable asynchronous serial communication.
