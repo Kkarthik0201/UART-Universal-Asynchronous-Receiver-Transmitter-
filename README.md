@@ -6,7 +6,7 @@ This project implements a **Universal Asynchronous Receiver/Transmitter (UART)**
 
 The design supports configurable baud rates and parity modes, and provides error detection mechanisms for reliable data transmission.
 
----
+-------
 
 ## Features
 
@@ -14,7 +14,7 @@ The design supports configurable baud rates and parity modes, and provides error
 * Configurable baud rate.
 * Supports:
 
-  * No parity
+  * No parity ( can be 0 or 1  as parity bit.)
   * Even parity
   * Odd parity
 * Start bit and stop bit generation.
