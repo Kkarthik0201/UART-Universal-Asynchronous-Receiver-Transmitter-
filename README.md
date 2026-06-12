@@ -14,9 +14,10 @@ The design supports configurable baud rates and parity modes, and provides error
 * Configurable baud rate.
 * Supports:
 
-  * No parity ( can be 0 or 1  as parity bit.)
+  * Zero parity
   * Even parity
   * Odd parity
+  * One parity
 * Start bit and stop bit generation.
 * Parallel-to-Serial conversion for transmission.
 * Serial-to-Parallel conversion for reception.
