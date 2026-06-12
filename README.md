@@ -150,9 +150,10 @@ Parity modes:
 
 | Parity Type | Mode        |
 | ----------- | ----------- |
-| 00          | No parity   |
+| 00          | Zero parity |
 | 01          | Even parity |
 | 10          | Odd parity  |
+| 11          | One Parity  |
 
 ---
 
